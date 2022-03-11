@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @piedy-pranav
 - 👀 I’m interested in Lerning the Basics of Coding, newbie here :smile:
-- 🌱 I’m currently learning Java and Python :computer:
+- 🌱 I’m currently learning Python :computer:
 - 💞️ I’m looking to collaborate on any project anything with a great scope of learning!
 - 📫 How to reach me ...
 
