@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @piedy-pranav
-- 💞️ I’m looking to collaborate on any project with a great scope of learning!
+- 🤝 I’m looking to collaborate on any project with a great scope of learning!
 - 📫 How to reach me ... https://www.linkedin.com/in/pranav-piedy-bb4279223/
 
 <!---
