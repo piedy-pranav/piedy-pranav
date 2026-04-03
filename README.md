@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @piedy-pranav, an MSBA Student @ UCLA Anderson School of Management
-- 🤝 I'm curious about all things Data, Analytics, AI and Strategy
+- 🤝 I'm curious about all things Product, Data Analytics, AI and Strategy
 - 📫 Let's connect! https://www.linkedin.com/in/pranavpiedy/
 
 <!---
